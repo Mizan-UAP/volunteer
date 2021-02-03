@@ -1,0 +1,67 @@
+.loginBody{
+    display: grid;
+    justify-content: center;
+}
+header img {
+    height: auto;
+    width: 25%;
+    padding: 3%;
+    margin-left: 30%;
+}
+.loginContainer{
+    align-items: center;
+    height: 350px;
+    width: 100%;
+    border: 1px solid black;
+    /* position: relative;
+    left: 38%; */
+    display: grid;
+    justify-content: center;
+}
+.google{
+    display: flex;
+    justify-content: center;
+    /* align-items: center;  */
+    border: 1px solid black;   
+    border-radius: 15px;
+    margin: 0rem 20px 0 20px;
+    height: 50px;
+    width: 250px;
+    align-items: center;
+    background-color: #008cffd0;
+}
+
+.google img {
+    height: 30px;
+    width: 30px;
+}
+.create label {
+    cursor: pointer;
+    color: blue;
+}
+.create a {
+    text-decoration: underline;
+    color: blue;
+}
+.registerContainer{
+    align-items: center;
+    height: auto;
+    width: 100%;
+    border: 1px solid black;
+    display: grid;
+    justify-content: center;
+    padding: 3% 0 3% 0;  
+ 
+}
+
+
+form{
+    display: grid;
+    justify-content: center;
+}
+input{
+    padding: 1rem;
+    border: none;
+    border-bottom: 1px solid black;
+}
+

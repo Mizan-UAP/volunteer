@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    justify-content: flex-start;
+    padding: 3%;
+    text-align: left;
+}
+
+.logo img{
+    height: auto;
+    width: 25%;
+}
+.menu{
+    display: flex;
+    justify-content: space-around; 
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    padding-top: 2%;
+    margin-right: 10%;
+}
+Link {
+    border-radius: 6px;
+    margin-right: 10%;
+    background-color: #008cffaf;
+    border: none;
+    height: auto;
+    width: 120px;
+}
